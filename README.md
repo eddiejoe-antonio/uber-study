@@ -6,3 +6,5 @@ To recreate the study, the following datasets are required
 
 - Proprietary data from Uber
 - New York City's Taxi and Limousine Comission data
+
+* NOTE: This repo is a work-in-progress that will be updated over time. It does not reflect any official statements from HR&A Advisors or Uber Technologies.
