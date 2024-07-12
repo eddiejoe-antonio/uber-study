@@ -7,11 +7,12 @@ To recreate the study, the following datasets are required
 - Proprietary data from Uber
 - New York City's Taxi and Limousine Comission data
 - AAA Maintenance & Depreciation Data
+- AAA Cost of Insurance Data
 - US DOT Fuel Economy Data
 - US Weather Service Data for New York City
-- NYSERDA Weekly Average Motor Gasoline Prices
-- NYSEDRA Cost and Usage Trends for Electric Vehicle Chargers
-- Local rental car costs
+- NYSERDA Weekly Average Motor Gasoline Prices Data
+- NYSEDRA Cost and Usage Trends for Electric Vehicle Chargers Data
+- Local Rental Car Fee Data
 
 # Disclaimer
 
