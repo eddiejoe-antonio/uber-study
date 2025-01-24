@@ -14,6 +14,15 @@ To recreate the study, the following datasets are required
 - NYSEDRA Cost and Usage Trends for Electric Vehicle Chargers Data
 - Local Rental Car Fee Data
 
+# Running the Script
+
+1. To get started, clone the repo using a code editor. 
+3. Download PARQUET datasets from the [TLC](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+4. Re-name files as needed and check the files names and directories to ensure both code files are referencing the correct data  
+5. At this point, you can eitherload datasets into the Jupyter notebook titled TLC_Trip_Processing, running the script cell by cell, or you can run the whole file by typing "python TLC_Trip_Processing" into your integrated terminal
+6. Use any exports for processing in the Jupyter notebook titled Uber_Trip_Processing, once again checking file names and directories against the code and running the script through an integrated terminal or a Jupyter Notebook environment
+7. Export processed data to a directory where you can find it, and use as needed!
+
 # Disclaimer
 
-This repo is a work-in-progress that will be updated over time. It does not reflect any official statements from HR&A Advisors or Uber Technologies.
+This repo does not reflect any official statements, methodologies, or publication of data from HR&A Advisors or Uber Technologies.
